@@ -1,0 +1,2 @@
+# KTTKPM_TH
+BÀI TẬP THỰC HÀNH MÔN KIẾN TRÚC VÀ THIẾT KẾ PHẦN MỀM
